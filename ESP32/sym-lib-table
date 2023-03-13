@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS63001")(type "KiCad")(uri "C:/Users/User/Documents/KiCad/7.0/projects/ESP32/Library/TPS63001/TPS63001.kicad_sym")(options "")(descr ""))
+)
