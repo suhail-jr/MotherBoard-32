@@ -5,4 +5,6 @@
   (lib (name "2023-03-15_14-57-46")(type "Legacy")(uri "C:/Users/Suhail/Documents/Kicad/7.0/projects/Library/SPI-Flash/2023-03-15_14-57-46.lib")(options "")(descr ""))
   (lib (name "TPS63001")(type "KiCad")(uri "C:/Users/Suhail/Documents/Kicad/7.0/projects/Library/TPS63001/TPS63001.kicad_sym")(options "")(descr ""))
   (lib (name "USBLC6")(type "Legacy")(uri "C:/Users/Suhail/Documents/Kicad/7.0/projects/Library/USB-ESD/USBLC6.lib")(options "")(descr ""))
+  (lib (name "Johanson Antenna")(type "Legacy")(uri "C:/Users/Suhail/Documents/Kicad/7.0/projects/Library/Antenna/Johanson Antenna.lib")(options "")(descr ""))
+  (lib (name "FPC2x20")(type "Legacy")(uri "C:/Users/Suhail/Documents/Kicad/7.0/projects/Library/FPC2/FPC2x20.lib")(options "")(descr ""))
 )
