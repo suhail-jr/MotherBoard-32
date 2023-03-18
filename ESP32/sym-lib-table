@@ -7,4 +7,5 @@
   (lib (name "USBLC6")(type "Legacy")(uri "C:/Users/Suhail/Documents/Kicad/7.0/projects/Library/USB-ESD/USBLC6.lib")(options "")(descr ""))
   (lib (name "Johanson Antenna")(type "Legacy")(uri "C:/Users/Suhail/Documents/Kicad/7.0/projects/Library/Antenna/Johanson Antenna.lib")(options "")(descr ""))
   (lib (name "FPC2x20")(type "Legacy")(uri "C:/Users/Suhail/Documents/Kicad/7.0/projects/Library/FPC2/FPC2x20.lib")(options "")(descr ""))
+  (lib (name "DF12NB-20DS-0.5V_51_")(type "Legacy")(uri "C:/Users/User/Documents/KiCad/7.0/projects/ESP32/Library/FPC3/DF12NB-20DS-0.5V_51_.lib")(options "")(descr ""))
 )
